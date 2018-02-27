@@ -6,7 +6,7 @@ This are the original images from coinmarketcap.com. Since they replaced all cur
 ### Our Free API:
 Simply replace the currency name in the URL.
 ```
-https://images.coinviewer.io/cryptocurrencies/64x64/bitcoin.png
+https://images.coinviewer.io/currencies/64x64/bitcoin.png
 ```
 For example: A image URL from CoinMarketCap:
 ```
