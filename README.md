@@ -10,9 +10,9 @@ https://images.coinviewer.io/currencies/64x64/bitcoin.png
 - or -  
 https://images.coinviewer.io/currencies/64x64/BTC.png
 ```
-For example: A image URL from CoinMarketCap:
+An example of CoinMarketCap's **not user-friendly** URLs:
 ```
-https://files.coinmarketcap.com/static/img/coins/64x64/1027.png
+https://s2.coinmarketcap.com/static/img/coins/64x64/1027.png
 ```
 
 ### Donate
