@@ -7,7 +7,7 @@ This are the original images from [coinmarketcap.com](https://coinmarketcap.com)
 Simply replace the currency name in the URL.
 ```
 https://images.coinviewer.io/currencies/64x64/bitcoin.png  
-or  
+- or -  
 https://images.coinviewer.io/currencies/64x64/BTC.png
 ```
 For example: A image URL from CoinMarketCap:
